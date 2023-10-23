@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Projects/HateSpeechClassification/mlruns/0/88f4145a4db440be81a10cd22477f8e5/artifacts
+deleted_time: 1698089983190
+end_time: 1698087038309
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 88f4145a4db440be81a10cd22477f8e5
+run_name: Logistic Regression (TFIDF)
+run_uuid: 88f4145a4db440be81a10cd22477f8e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698087037899
+status: 4
+tags: []
+user_id: Surbhit Kumar
